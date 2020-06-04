@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins"]
+	path = Assets/Plugins
+	url = ssh://git@github.com:escgametheater/csharp-scripts.git
